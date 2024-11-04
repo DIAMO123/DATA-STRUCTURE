@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676052754 source:d:\my data structure\demo1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
